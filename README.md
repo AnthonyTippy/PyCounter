@@ -7,9 +7,9 @@ PyCounter is a small python script that can count unique phrases within text doc
 1. Download PyCounter
 2. Run PyCounter
 
-Output
-This program will count the frequency of unique phrases in a text file!
-Enter a file name: 'YOUR FILE NAME.txt'
+[Output]\n
+  This program will count the frequency of unique phrases in a text file!
+   Enter a file name: 'YOUR FILE NAME.txt'
 
 CSV File Name (Name your file): 'YOUR CSV FILE NAME     [No need to add .csv extension]
 Done!
