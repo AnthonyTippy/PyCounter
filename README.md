@@ -11,8 +11,8 @@ PyCounter is a small python script that can count unique phrases within text doc
 
 Before
 
-![alt text](PyCounter/Example usage PyCounter.PNG)
+
 
 After
 
-![Alt text](PyCounter/PyCounter/PyCounter_csv.PNG?raw=true "PyCounter_csv.png")
+
