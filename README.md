@@ -15,5 +15,4 @@ Before
 
 After
 
-![alt text](PyCounter/PyCounter/PyCounter csv.PNG)
-![alt text](https://raw.githubusercontent.com/RoboGeek123/PyCounter/PyCounter/PyCounter_csv.PNG)
+![Alt text](PyCounter/PyCounter/PyCounter_csv.PNG?raw=true "PyCounter_csv.png")
