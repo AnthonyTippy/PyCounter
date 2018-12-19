@@ -9,10 +9,4 @@ PyCounter is a small python script that can count unique phrases within text doc
 
 # Results
 
-Before
-
-
-
-After
-
-
+(In Progress)
