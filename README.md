@@ -7,6 +7,7 @@ PyCounter is a small python script that can count unique phrases within text doc
 2. Run PyCounter
 3. Your CSV File will be in the same location as where you executed PyCounter
 
-# Results
 
-(In Progress)
+Update Nov 2020 - Honestly, this whole python script is redudant.  Just import the text file into excel and use pivot tables :)
+
+Enjoy though
